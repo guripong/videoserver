@@ -1,0 +1,15 @@
+{
+    "video_release_timeout": 0.1,
+    "live_stream_src": "/opt/awscam/out/ch1_out.h264",
+    "max_buffer_size": 2,
+    "proj_stream_src": "/tmp/results.mjpeg",
+    "live_resolution": "480p",
+    "stream_timeout": 1,
+    "ca_path": "/opt/awscam/awsmedia/certs/root.crt",
+    "server_cert_path": "/opt/awscam/awsmedia/certs/server.crt",
+    "server_key_path": "/opt/awscam/awsmedia/certs/server.key",
+    "live_fps": 15,
+    "port": 4001,
+    "original_live_framerate": 24,
+    "original_live_resolution" : "1080p"
+}
